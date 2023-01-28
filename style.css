@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  padding: 200px 0;
+}
+h1 {
+  color: blue;
+}
+button {
+  color: green;
+}
+span {
+  color: red;
+}
